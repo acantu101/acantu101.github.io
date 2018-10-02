@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Understanding Variables"
-date:       2018-10-02 03:42:54 +0000
+date:       2018-10-01 23:42:55 -0400
 permalink:  understanding_variables
 ---
 
