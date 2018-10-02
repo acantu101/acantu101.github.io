@@ -16,6 +16,33 @@ Variables can't have spaces or keys. thy have to be typed in either or one of th
 one_way_to_name_variables
 another_way_to_name_variables
 
+# Methods and Arguments
+## Arguments
+They assign the task to the method name.
+
+Example:
+
+Method_name(argument)
+
+Def name_of_person(name)
+	Puts “ hello #{name_of_person}!”
+End
+
+## Methods: 
+extract a procedure. Acts like a verb
+
+example: 
+
+Def name_of_methods
+ Operation
+End
+
+Defining a method: 
+Def name_of_method
+Body
+End
+
+
 
 
 
