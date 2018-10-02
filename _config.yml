@@ -1,11 +1,11 @@
 # Site settings
 author: alejandra cantu
-title: 
+title: Alejandra Cantu
 header-img: img/home-bg.png
 email: alejandra.cantu13@gmail.com
 copyright_name: alejandra cantu
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Follow me while I learn how to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  acantu101
